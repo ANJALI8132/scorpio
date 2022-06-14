@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+auto.mahindra.com	TRUE	/	FALSE	1999999999	TiPMix	89.5701246720324
+auto.mahindra.com	TRUE	/	FALSE	1999999999	x-ms-routing-name	self
+auto.mahindra.com	TRUE	/	FALSE	1999999999	mahindra#lang	en
+auto.mahindra.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	chlzgqgzk2jfc2t0iyckji1a
+auto.mahindra.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+auto.mahindra.com	TRUE	/	FALSE	1999999999	SC_ANALYTICS_GLOBAL_COOKIE	2bfc6c14d19244358bd0914273ea2f04|False
+auto.mahindra.com	TRUE	/	FALSE	1999999999	utm_s	?utm_medium=cpc&utm_source=google_search&utm_content=rsa1&utm_adgroup=2022&utm_term=mahindra%20scorpion%202022&utm_campaign=scorpio_n_snackable_pre_launch_plan_june22&gclid=CjwKCAjwy_aUBhACEiwA2IHHQJWb_lN8xxKOCojByOR0CfTfA-bb6XNk9Y-v8IU2foL8XrqLPk6KyxoCTM8QAvD_BwE
+auto.mahindra.com	TRUE	/	FALSE	1999999999	gclid	CjwKCAjwy_aUBhACEiwA2IHHQJWb_lN8xxKOCojByOR0CfTfA-bb6XNk9Y-v8IU2foL8XrqLPk6KyxoCTM8QAvD_BwE
+auto.mahindra.com	TRUE	/	FALSE	1999999999	is_935832	false
+auto.mahindra.com	TRUE	/	FALSE	1999999999	is_ExitPopup	false
+auto.mahindra.com	TRUE	/	FALSE	1999999999	is_023273	false
+auto.mahindra.com	TRUE	/	FALSE	1999999999	sxa_site	Mahindra
+
